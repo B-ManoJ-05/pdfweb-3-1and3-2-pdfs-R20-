@@ -17,4 +17,12 @@
  .manu:hover{
    background-color: lightcyan;
     }
+ body{
+   background-image: url(./photo-1491308056676-205b7c9a7dc1.avif);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+
  
