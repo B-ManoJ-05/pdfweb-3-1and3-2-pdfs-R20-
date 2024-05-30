@@ -14,5 +14,7 @@
     text-decoration: underline;
     text-align: center;
  }
-
+ .manu:hover{
+   background-color: lightcyan;
+    }
  
