@@ -17,4 +17,11 @@
  .manu:hover{
    background-color: lightcyan;
     }
- 
+  body{
+   background-image: url(./manu.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+
