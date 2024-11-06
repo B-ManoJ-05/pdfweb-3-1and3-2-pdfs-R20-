@@ -25,3 +25,17 @@
    background-size: cover;
 }
 
+
+ 
+i{
+  font-size: 50px;
+  cursor: pointer;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h1{
+  
+  font-size: 3em;
+}
