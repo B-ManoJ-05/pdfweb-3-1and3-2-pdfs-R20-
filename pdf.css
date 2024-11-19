@@ -24,8 +24,20 @@
    background-attachment: fixed;
    background-size: cover;
 }
- 
+ div{
+  color: brown;
+  font-family: monospace;
 
+}
 
+@media(max-width:600px){
+  main{
+    flex-direction: column;
+  }
+  .content, .sidebar{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
  
  
