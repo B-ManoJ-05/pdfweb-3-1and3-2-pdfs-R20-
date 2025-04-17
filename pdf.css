@@ -30,18 +30,10 @@
 
 }
 
-@media(max-width:600px){
-  main{
-    flex-direction: column;
-  }
-  .content, .sidebar{
-    width: 100%;
-    margin-bottom: 20px;
-  }
-}
-@media only screen  and (max-width: 600px)
-{
-
+ button{
+  box-shadow: 2px 5px 2px;
+  border-radius: 20px;
+ font-weight: bold;
 }
  
  
